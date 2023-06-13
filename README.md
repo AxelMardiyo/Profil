@@ -2,7 +2,7 @@
 ### Student at SMKS Antartika 1 Sidoarjo
 Saya adalah siswa SMK Antartika 1 Sidoarjo, saya Kelas 10 Jurusan Rekayasa Perangkat Lunak (RPL), saya membuat portfolio ini untuk melamar Magang diperusahaan "Seventhsoft".
 
-Skills: HTML / CSS / JS / PHP / MySQL / Larvel
+Skills: HTML / CSS / JS / PHP / MySQL / Laravel
 
 ## Project Saya
 ### 1. Blog App
